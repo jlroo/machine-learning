@@ -1,0 +1,21 @@
+The Information Content of Forward-Looking Statements in Corporate Filings – A Naive Bayesian Machine Learning Approach
+Journal of Accounting Research, Forthcoming
+Posted: 13 Jun 2010  
+
+Feng Li
+Shanghai Advanced Institute of Finance, Shanghai Jiaotong University
+
+Date Written: June 11, 2010
+
+Abstract
+This paper examines the information content of the forward-looking statements in the Management Discussion and Analysis section (MD&A) of 10-K and 10-Q filings using a Naive Bayesian machine learning algorithm. 
+
+I find that firms with better current performance, lower accruals, smaller size, lower market-to-book ratio, less return volatility, lower MD&A Fog index, and longer history tend to have more positive forward-looking statements. The average tone of the forward-looking statements is positively associated with future earnings even after controlling for other determinants of future performance. The results also show that, despite increased regulations aimed at strengthening MD&A disclosures, there is no systematic change in the information content of MD&As over time. 
+
+In addition, the tone in MD&As seems to mitigate the mispricing of accruals. When managers “warn” about the future performance implications of accruals (i.e., the MD&A tone is positive (negative) when accruals are negative (positive)), accruals are not associated with future returns. The tone measures based on three commonly used dictionaries (Diction, General Inquirer, and the Linguistic Inquiry and Word Count) do not positively predict future performance. This result suggests that these dictionaries might not work well for analyzing corporate filings.
+
+Keywords: MD&A, Information content, Machine learning, Dictionary approach, Accrual anomaly
+
+JEL Classification: G12, M41, M45, G29, G38
+
+
