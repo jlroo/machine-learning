@@ -124,7 +124,7 @@ class AdalineSGD(object):
 
 ### Frist load and clean the data
 
-train = open("data/titanic.csv")
+train = open("../data/titanic.csv")
 train = train.readlines()
 train = [ item.replace('""',"") for item in train ]
 train = [ item.split("\"") for item in train ]

@@ -110,7 +110,7 @@ sample_b = np.concatenate(([feature_b_0],[feature_b_1],[label_b]),axis=0)
 
 dataset = np.column_stack((sample_a,sample_b))
 
-np.savetxt("data/data-separable.csv", dataset.T,fmt='%1.4f',
+np.savetxt("../data/data-separable.csv", dataset.T,fmt='%1.4f',
            delimiter=',' , comments='',
            header="feature_0,feature_1,class_label")
 
@@ -161,7 +161,7 @@ sample_b = np.concatenate(([feature_b_0],[feature_b_1],[label_b]),axis=0)
 
 dataset = np.column_stack((sample_a,sample_b))
 
-np.savetxt("data/data-non-separable.csv", dataset.T,fmt='%1.4f',
+np.savetxt("../data/data-non-separable.csv", dataset.T,fmt='%1.4f',
            delimiter=',' , comments='',
            header="feature_0,feature_1,class_label")
 
