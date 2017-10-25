@@ -123,3 +123,4 @@ testing_model = np.array([test["passengerid"], predict_test], dtype='<i8')
 testing_model = testing_model.transpose()
 
 np.savetxt("predicted_Submission.csv", testing_model, fmt='%i', delimiter=",", header="passengerId,predicted_survival")
+
