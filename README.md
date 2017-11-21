@@ -2,11 +2,11 @@
 
 Machine Learning Notebooks
 ==============================
-* **Machine Learning Corporate Filings:** [corporate-filings-research](../blob/master/projects/01-secfilings/ml-corporate-filings.pd)
-* **Titanic Dataset Analysis:** [titanic-survical-notebook](../blob/master/projects/02-titanic/02-titanic-notebook.ipynb)
-* **Perceptron Classification:** [perceptron-notebook](../blob/master/projects/03-classification/03-perceptron-notebook.ipynb)
-* **SVM Classification:** [svm-classification-notebook](../blob/master/projects/04-svm-classifier/02-svm-notebook.ipynb)
-* **Naive Bayes Classification:** [naive-bayes-notebook](../blob/master/projects/05-naive-bayes/05-naive-bayes.ipynb)
+* **Machine Learning Corporate Filings:** [corporate-filings-research](../master/projects/01-secfilings/ml-corporate-filings.pdf)
+* **Titanic Dataset Analysis:** [titanic-survical-notebook](../master/projects/02-titanic/02-titanic-notebook.ipynb)
+* **Perceptron Classification:** [perceptron-notebook](../master/projects/03-classification/03-perceptron-notebook.ipynb)
+* **SVM Classification:** [svm-classification-notebook](../master/projects/04-svm-classifier/02-svm-notebook.ipynb)
+* **Naive Bayes Classification:** [naive-bayes-notebook](../master/projects/05-naive-bayes/05-naive-bayes.ipynb)
 -----
 
 #### Computer Science Department
