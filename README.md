@@ -7,6 +7,7 @@ Machine Learning Notebooks
 * **Perceptron Classification:** [perceptron-notebook](../master/projects/03-classification/03-perceptron-notebook.ipynb)
 * **SVM Classification:** [svm-classification-notebook](../master/projects/04-svm-classifier/02-svm-notebook.ipynb)
 * **Naive Bayes Classification:** [naive-bayes-notebook](../master/projects/05-naive-bayes/05-naive-bayes.ipynb)
+* **Applied ML: Quality Control Workflow** [quality-control-notebook](../master/projects/06-quality-control/05-clf-models.ipynb)
 -----
 
 #### Computer Science Department
